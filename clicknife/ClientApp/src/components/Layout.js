@@ -9,7 +9,7 @@ export default props => (
         <NavMenu />
       </Col>
       <Col sm={9}>
-        {props.children}
+        
       </Col>
     </Row>
   </Grid>
